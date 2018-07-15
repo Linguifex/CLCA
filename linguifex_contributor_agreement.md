@@ -8,7 +8,7 @@ If you agree to be bound by these terms, fill in the information requested below
 2. With respect to any worldwide copyrights, or copyright applications and registrations, in your contribution:
    + You hereby assign the Contractor joint ownership, and to the extent that such assignment is or becomes invalid, ineffective or uneforceable, you hereby grant the Contractor a perpetual, irrevocable, non-exclusive, worldwide, no-charge, royalty-free, unrestricted license to exercise all rights under those copyrights. This includes, at the option of the Contractor, the right to sublicense these same rights to third parties through multiple levels of sublicensees or other licensing arrangements;
    + You agree that either Contractor or Creator can do all things in relation to your contribution as if either of them were the sole owner, and if either one makes a derivate work of your contribution, the one who makes the derivate work (or has it made) will be the sole owner of that derivative work;
-   + You agree that you will not assert any moral rights in your contribution against the Contractor, their licensees or transferres, except that of attribution;
+   + You agree that you will not assert any moral rights in your contribution against the Contractor, their licensees or transferres, except that of being acknowledge as the Creator;
    + You agree that we may register a copyright in your contribution and exercise all ownership rights associated with it; and
    + You agree that neither Contractor or Creator has any duty to consult with, obtain the consent of, pay or render an account to the other for any use or distribution of your contribution.
    
