@@ -1,4 +1,4 @@
-# CLCA
+# LCLCA
 
 This repository contains a markdown file (`constructed_language_creator_agreement.md`) for the Linguifex/Constructed Language Creator Agreement ("LCLCA"). 
 
