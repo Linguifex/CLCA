@@ -1,6 +1,6 @@
 # Linguifex/Constructed Language Creator Agreement #
 
-This Linguifex/Constructed Language Creator Agreement ("LCLCA") applies to any constructed language(s) that you make as part of a project ("the Work") managed by `_____` ("the Contractor") and sets out the intellectual property rights you grant to the Contractor in the contributed materials. The term "the Contractor" shall mean _______. The term "the Creator" shall mean the person or entity identified below.
+This Linguifex/Constructed Language Creator Agreement ("LCLCA") applies to any constructed language(s) that you make as part of a project ("the Work") managed by `_____` ("the Contractor") and sets out the intellectual property rights you grant to the Contractor in the contributed materials. The term "the Contractor" shall mean `_______`. The term "the Creator" shall mean the person or entity identified below.
 If you agree to be bound by these terms, fill in the information requested below and sign the LCLCA where indicated below. Read this agreement carefully before signing. These terms and conditions constitute a binding legal agreement.
 
 1. The term 'contribution' or 'contributed materials' means any grammatical description, lexical entry, manual, graphic, font, example, written, analog, auditory or digital materials describing the constructed language(s) at the time of delivery to the Contractor.
