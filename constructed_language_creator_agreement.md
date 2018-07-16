@@ -21,7 +21,7 @@ If you agree to be bound by these terms, fill in the information requested below
 5. You covenant, represent, warrant and agree that 
    + each contribution that you submit is and shall be an original work of authorship and you can legally grant the rights set out in this LCLCA;
    + to the best of your knowledge, each contribution will not violate any third party's copyright, trademarks, patents, or other intellectual property rights; and 
-   + You agree to notify the Contractor if you become aware of any circumstance whiich would make any of the foregoing representations inaccurate in any respect. The Contractor may publicly disclose your participation in the project, including the fact that you have signed the LCLCA.
+   + You agree to notify the Contractor if you become aware of any circumstance which would make any of the foregoing representations inaccurate in any respect. The Contractor may publicly disclose your participation in the project, including the fact that you have signed the LCLCA.
 
 6. This LCLA is governed by the laws of the Kingdom of Sweden and applicable European law. Any choice of law rules will not apply.
 
