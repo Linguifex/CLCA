@@ -10,7 +10,7 @@ If you agree to be bound by these terms, fill in the information requested below
    + You agree that either Contractor or Creator can do all things in relation to your contribution as if either of them were the sole owner, and if either one makes a derivate work of your contribution, the one who makes the derivate work (or has it made) will be the sole owner of that derivative work;
    + You agree that you will not assert any moral rights in your contribution against the Contractor, their licensees or transferres, except that of being acknowledged as the creator;
    + You agree that the Contractor may register a copyright in your contribution and exercise all ownership rights associated with it; and
-   + You agree that neither Contractor or Creator has any duty to consult with, obtain the consent of, pay or render an account to the other for any use or distribution of your contribution.
+   + You agree that neither Contractor or Creator has any duty to consult with, obtain the consent of, pay or render an account to the other for any use or distribution of your contribution beyond that stipulated in the contract for delivery.
    
 3. With respect to any intellectual rights you possess, or that you can license without payment to any third party, you hereby grant the Contractor a perpetual, irrevocable, non-exclusive, worldwide, no-charge, royalty-free license to
    + make, have made, use, sell, offer to sell, import, and otherwise transfer your contribution in whole or in part, alone or in combination with or included in any product, work or materials arising out of the Work to which your contribution was submitted, and
